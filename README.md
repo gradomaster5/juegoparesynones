@@ -1,2 +1,1 @@
-# juegoparesynones
-paresynones
+# paresynones

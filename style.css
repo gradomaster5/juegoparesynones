@@ -1,0 +1,100 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.pantalla{
+    position:relative;
+    width:900px;
+    height: 600px;
+    background-color:hotpink;
+    margin:1em;
+    text-align:center;
+    font-size: 3em;
+    vertical-align: center;
+}
+#pantalla1{
+    background-image:url(paresynones1.jpg),url("paresynones2.png");
+    background-size: 50%,25%;
+    background-position: bottom right, top center;
+    background-repeat: no-repeat,no-repeat;
+}
+button{
+    font-size:1.5em;
+    background-color:yellow;
+    color:black;
+    padding:.2em;
+    border-radius: .5em;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+label {
+  display: inline-block;
+  background-color:#ddd;
+  padding: 4px 11px;
+  font-family: Arial;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+input[type="radio"]:checked+label {
+  background-color: #bbb;
+}
+
+#display{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
